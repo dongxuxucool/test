@@ -1,0 +1,8 @@
+我的 Cpu 项目每有实现 BIOS 的 ID 读取
+如果你有办法，那就请你把代码提供给我，，  这个代码包含了 ccrun.com 及其群内的众人的代码
+
+由于项目名称问题 生成的 dll 为  Project2.dll 请参照代码改为 SystemInfo.dll  然后放到 jdk 的 bin 目录
+
+我的想法是  windows\system32也可以，，没试过
+
+然后搞定
